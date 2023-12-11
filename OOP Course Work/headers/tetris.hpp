@@ -10,6 +10,7 @@ class Tetris {
 public:
 	Tetris();
 
+
 private:
 	bool gameStatus;
 };

@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="figures.cpp" />
     <ClCompile Include="headers\tetris.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="figures.hpp" />
     <ClInclude Include="headers\GUI.hpp" />
     <ClInclude Include="headers\tetris.hpp" />
   </ItemGroup>
