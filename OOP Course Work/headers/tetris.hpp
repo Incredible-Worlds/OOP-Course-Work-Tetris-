@@ -3,6 +3,7 @@
 #ifdef _WIN32
 #include "GUI.hpp"
 #include <Windows.h>
+#include <iostream>
 
 #endif // _WIN32
 
@@ -13,4 +14,5 @@ public:
 
 private:
 	bool gameStatus;
+	bool boardStatus;
 };

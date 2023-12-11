@@ -7,9 +7,5 @@ Figures::Figures()
 
 }
 
-void Figures::drawFigure(int figure_type, std::pair<int, int> vector2)
-{
-
-}
 
 
