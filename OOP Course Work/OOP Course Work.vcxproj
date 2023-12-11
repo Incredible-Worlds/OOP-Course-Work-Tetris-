@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="headers\GUI.cpp" />
     <ClCompile Include="headers\tetris.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

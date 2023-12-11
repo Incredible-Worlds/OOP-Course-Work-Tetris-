@@ -2,8 +2,7 @@
 
 Tetris::Tetris()
 {
-	system("color 25");
-
+	system("color 01");
 
 	gameStatus = true;
 	while (gameStatus) {
